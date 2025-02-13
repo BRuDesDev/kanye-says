@@ -6,7 +6,7 @@ I have remade this app with some new stuff I have learned since initially creati
 Main changes I have made:
   * Using ttkbootstrap library for some nicer styling options
   * Added flip (mirror horizontally) of Kanye's head each time he is clicked. 
-  * Added a History feature, where the user can see all quotes given so far.
+  * Added a History feature, where the user can toggle a window that shows all quotes
   * Created an up-vote and down-vote buttons that allow the user to give a quote thumbs up or down
   * The user's like or dislike is shown in the history window with the quote
 
