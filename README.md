@@ -1,4 +1,4 @@
-# Kanye Says... A Kanye Rest App
+# Kanye Says... A Kanye REST App
 A funny GUI desktop app that displays a new quote from Kanye West' Twitter everytime you push the button with his face in it. 
 I am using the 'Kanye Rest' API to scrape tweets
 
